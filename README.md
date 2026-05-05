@@ -20,11 +20,11 @@ Tenho experiência como Suporte Técnico Nível 1, atuando no atendimento a usu�
   src="https://img.shields.io/github/stars/Gabrielanacleto8?style=for-the-badge&color=55960c&label=Estrelas"
 />
 
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:bifarias2014@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/seuusuario">
+<a href="https://www.instagram.com/gabriel_anacleto/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
