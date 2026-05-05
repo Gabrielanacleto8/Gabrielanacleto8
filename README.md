@@ -53,21 +53,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 ### 📊 Estatísticas
 
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gabrielanacleto8&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img 
+  alt="GitHub Stats" 
+  height="180" 
+  src="https://github-readme-stats.vercel.app/api?username=Gabrielanacleto8&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
 
 <img 
-      align="left" 
-      alt="Top Langs" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielanacleto8&theme=tokyonight&layout=compact&langs_count=6" 
-  />
-
-</p>
+  alt="Top Langs" 
+  height="180" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielanacleto8&theme=tokyonight&layout=compact&langs_count=6" 
+/>
