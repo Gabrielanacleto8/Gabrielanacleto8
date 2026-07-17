@@ -1,10 +1,12 @@
 💻 Gabriel Anacleto
 
 **`Desenvolvedor FullStack`**
+# Olá! 👋
 
-Me chamo Gabriel Anacleto, sou natural de Santa Catarina e atualmente estou cursando Desenvolvimento de Sistemas pelo SENAI.
-Sou apaixonado por tecnologia, busco evoluir constantemente minhas habilidades e construir projetos práticos que agreguem valor ao meu portfólio.
-Tenho experiência como Suporte Técnico Nível 1, atuando no atendimento a usuários, resolução de problemas básicos de hardware e software, além de suporte a sistemas e redes. Essa vivência me proporcionou desenvolver habilidades de análise, comunicação e resolução de problemas no dia a dia
+Me chamo Gabriel Anacleto e sou estudante de Análise e Desenvolvimento de Sistemas pelo SENAI. Atualmente atuo como Analista de Sistemas e estou construindo minha carreira com foco em desenvolvimento de software.
+
+Tenho experiência em suporte, análise de sistemas e documentação de processos, e busco minha primeira oportunidade como Desenvolvedor Trainee ou Desenvolvedor Júnior. Estou sempre aprendendo novas tecnologias e desenvolvendo projetos práticos para aprimorar minhas habilidades e contribuir com soluções de qualidade.
+
 
 📌 Conecte-se comigo no LinkedIn: [Gabriel Anacleto](https://www.linkedin.com/in/gabriel-anacleto-01a98613b/)
 
@@ -13,83 +15,97 @@ Tenho experiência como Suporte Técnico Nível 1, atuando no atendimento a usu�
     alt="Seguidores" 
     title="Me siga no GitHub" 
     src="https://img.shields.io/github/followers/Gabrielanacleto8?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&logoColor=white&label=Seguidores"
+    style="border-radius: 12px;"
   />
 </a>
 
-<img 
-  src="https://img.shields.io/github/stars/Gabrielanacleto8?style=for-the-badge&color=55960c&label=Estrelas"
-/>
-
 <a href="mailto:bifarias2014@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img 
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    style="border-radius: 12px;"
+  />
 </a>
 
 <a href="https://www.instagram.com/gabriel_anacleto/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img 
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    style="border-radius: 12px;"
+  />
 </a>
 
----
- 
- Tecnologias e Linguagens
+<hr style="height:4px;border:none;background-color:#444;">
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left"
- alt="JavaScript" 
- title="JavaScript" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+### Tecnologias e Linguagens
 
-<img align="left" 
-alt="Python" title="Python" 
-width="30px" style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" style="padding: 0 12px; border: none;">
+      <img alt="HTML" title="HTML" width="45" border="0" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    </td>
+    <td align="center" style="padding: 0 12px; border: none;">
+      <img alt="CSS" title="CSS" width="45" border="0" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    </td>
+    <td align="center" style="padding: 0 12px; border: none;">
+      <img alt="JavaScript" title="JavaScript" width="45" border="0" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    </td>
+    <td align="center" style="padding: 0 12px; border: none;">
+      <img alt="Python" title="Python" width="45" border="0" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    </td>
+    <td align="center" style="padding: 0 12px; border: none;">
+      <img alt="Git" title="Git" width="45" border="0" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    </td>
+    <td align="center" style="padding: 0 12px; border: none;">
+      <img alt="MySQL" title="MySQL" width="45" border="0" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    </td>
+  </tr>
+</table>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<hr style="height:4px;border:none;background-color:#444;">
 
-<br/> 
+### 💻 Sistemas Operacionais
 
----
-💻 Sistemas Operacionais
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000"/>
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" style="padding: 0 8px; border: none;">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" border="0" style="border-radius: 10px;"/>
+    </td>
+    <td align="center" style="padding: 0 8px; border: none;">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" border="0" style="border-radius: 10px;"/>
+    </td>
+    <td align="center" style="padding: 0 8px; border: none;">
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" border="0" style="border-radius: 10px;"/>
+    </td>
+    <td align="center" style="padding: 0 8px; border: none;">
+      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0" border="0" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
 
 <br/> 
 <br/>
 
----
+<hr style="height:4px;border:none;background-color:#444;">
 
-### 📊 Estatísticas
+### 🎯 Áreas de Interesse
 
-<img 
-  alt="GitHub Stats" 
-  height="180" 
-  src="https://github-readme-stats.vercel.app/api?username=Gabrielanacleto8&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+<table align="center" style="border-collapse: separate; border-spacing: 12px 0;">
+  <tr>
+    <td align="center" width="220" style="border-radius: 12px; border: 1px solid #444; padding: 20px;">
+      <sub>🌐</sub><br/>
+      <b>Web</b><br/>
+      <sub>Interfaces, páginas responsivas e experiências simples de usar</sub>
+    </td>
+    <td align="center" width="220" style="border-radius: 12px; border: 1px solid #444; padding: 20px;">
+      <sub>🗄️</sub><br/>
+      <b>Dados</b><br/>
+      <sub>Banco de Dados e organização de informações</sub>
+    </td>
+    <td align="center" width="220" style="border-radius: 12px; border: 1px solid #444; padding: 20px;">
+      <sub>🚀</sub><br/>
+      <b>Full Stack</b><br/>
+      <sub>Aplicações completas do front-end ao back-end</sub>
+    </td>
+  </tr>
+</table>
 
-<img 
-  alt="Top Langs" 
-  height="180" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielanacleto8&theme=tokyonight&layout=compact&langs_count=6" 
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Gabrielanacleto8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-/>
+ 
