@@ -37,50 +37,17 @@ Tenho experiência em suporte, análise de sistemas e documentação de processo
 
 ### Tecnologias e Linguagens
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" style="padding: 0 12px; border: none;">
-      <img alt="HTML" title="HTML" width="45" border="0" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    </td>
-    <td align="center" style="padding: 0 12px; border: none;">
-      <img alt="CSS" title="CSS" width="45" border="0" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    </td>
-    <td align="center" style="padding: 0 12px; border: none;">
-      <img alt="JavaScript" title="JavaScript" width="45" border="0" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    </td>
-    <td align="center" style="padding: 0 12px; border: none;">
-      <img alt="Python" title="Python" width="45" border="0" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    </td>
-    <td align="center" style="padding: 0 12px; border: none;">
-      <img alt="Git" title="Git" width="45" border="0" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    </td>
-    <td align="center" style="padding: 0 12px; border: none;">
-      <img alt="MySQL" title="MySQL" width="45" border="0" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,mysql" alt="Tecnologias e Linguagens" />
+</p>
 
 <hr style="height:4px;border:none;background-color:#444;">
 
 ### 💻 Sistemas Operacionais
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" style="padding: 0 8px; border: none;">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" border="0" style="border-radius: 10px;"/>
-    </td>
-    <td align="center" style="padding: 0 8px; border: none;">
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" border="0" style="border-radius: 10px;"/>
-    </td>
-    <td align="center" style="padding: 0 8px; border: none;">
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" border="0" style="border-radius: 10px;"/>
-    </td>
-    <td align="center" style="padding: 0 8px; border: none;">
-      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0" border="0" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple" alt="Sistemas Operacionais" />
+</p>
 <br/> 
 <br/>
 
@@ -107,5 +74,3 @@ Tenho experiência em suporte, análise de sistemas e documentação de processo
     </td>
   </tr>
 </table>
-
- 
