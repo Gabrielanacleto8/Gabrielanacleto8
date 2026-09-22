@@ -3,9 +3,9 @@
 **`Desenvolvedor FullStack`**
 # Olá! 👋
 
-Me chamo Gabriel Anacleto e sou estudante de Análise e Desenvolvimento de Sistemas pelo SENAI. Atualmente atuo como Analista de Sistemas e estou construindo minha carreira com foco em desenvolvimento de software.
+Me chamo Gabriel Anacleto e sou estudante de Engenharia de Software. Atualmente atuo como **Desenvolvedor Júnior**, trabalhando com desenvolvimento e manutenção de sistemas, análise de requisitos e implementação de soluções.
 
-Tenho experiência em suporte, análise de sistemas e documentação de processos, e busco minha primeira oportunidade como Desenvolvedor Trainee ou Desenvolvedor Júnior. Estou sempre aprendendo novas tecnologias e desenvolvendo projetos práticos para aprimorar minhas habilidades e contribuir com soluções de qualidade.
+Tenho experiência em suporte, análise de sistemas e documentação de processos, e venho aprimorando continuamente meus conhecimentos em desenvolvimento de software. Busco evoluir tecnicamente, explorar novas tecnologias e contribuir com soluções eficientes, escaláveis e de qualidade.
 
 
 📌 Conecte-se comigo no LinkedIn: [Gabriel Anacleto](https://www.linkedin.com/in/gabriel-anacleto-01a98613b/)
